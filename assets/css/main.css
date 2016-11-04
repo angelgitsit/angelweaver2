@@ -3336,6 +3336,7 @@
 		-ms-align-items: center;
 		align-items: center;
 		background-image: url("../../images/banner.jpg");
+		opacity:0.5;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
