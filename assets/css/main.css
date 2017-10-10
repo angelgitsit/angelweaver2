@@ -3070,7 +3070,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #E0CA3C;
+		background-color: #2a2f4a;
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
@@ -3548,7 +3548,7 @@
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		background-color: #E0CA3C;
 	}
 
 		#main > * {
